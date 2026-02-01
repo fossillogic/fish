@@ -1,6 +1,6 @@
 # **Jellyfish AI**
 
-Jellyfish AI is a cold, deterministic, and manipulation-resistant AI framework designed for model creation, reasoning, and data management without ideology, emotion, or social influence. Its CLI tool, fish, allows users to build, manage, and run AI modules and datasets while maintaining strict auditability, persistence, and operational integrity.
+Jellyfish AI (fish) is a command-line tool designed for managing, developing, and running AI models in a controlled, deterministic environment. It provides a cold-core, manipulation-resistant engine that avoids ideology, emotional influence, and social or religious entanglements—ensuring AI development remains purely functional, auditable, and deterministic.
 
 ## **Prerequisites**
 
