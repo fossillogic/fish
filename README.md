@@ -1,6 +1,6 @@
-# **Fossil Project**
+# **Jellyfish AI**
 
-This project template serves as a starting point for creating classic executable projects that can be published as applications on Docker or even via GitHub. It includes the necessary setup, compilation, installation, and running instructions to get your project up and running quickly.
+Jellyfish AI is a cold, deterministic, and manipulation-resistant AI framework designed for model creation, reasoning, and data management without ideology, emotion, or social influence. Its CLI tool, fish, allows users to build, manage, and run AI modules and datasets while maintaining strict auditability, persistence, and operational integrity.
 
 ## **Prerequisites**
 
@@ -18,8 +18,8 @@ Ensure you have the following installed before starting:
 1. **Clone the Repository**:
 
     ```sh
-    git clone https://github.com/fossillogic/app-c.git
-    cd app-c
+    git clone https://github.com/fossillogic/fish.git
+    cd fish
     ```
 
 2. **Configure the Build**:
@@ -43,7 +43,7 @@ Ensure you have the following installed before starting:
 5. **Run the Project**:
 
     ```sh
-    <exe name>
+    fish
     ```
 
 ## **Contributing**
